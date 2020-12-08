@@ -1,0 +1,27 @@
+{
+  "name": "fooler-redis",
+  "version": "1.0.0",
+  "description": "async redis pool for foller",
+  "main": "src/fooler-redis.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBye/fooler-redis.git"
+  },
+  "keywords": [
+    "fooler",
+    "redis",
+    "async"
+  ],
+  "author": "NBye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBye/fooler-redis/issues"
+  },
+  "homepage": "https://github.com/NBye/fooler-redis#readme",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
